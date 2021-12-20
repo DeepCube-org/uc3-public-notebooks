@@ -23,7 +23,7 @@ The methods to download the models are presented in detail in our relevant paper
 
 ## Deep Learning (DL) Models Explainability
 
-This third notebook [3_UC3_DL_models_XAI.ipynb](3_UC3_DL_models_XAI.ipynb) performs the explainable Artificial Intelligence techniques
+This third notebook [3_UC3_DL_models_XAI.ipynb](3_UC3_DL_models_XAI.ipynb) performs the explainable Artificial Intelligence (xAI) techniques used for extracting more information about the data. It also visualizes some plots for better understanding the results.
 
 
 
