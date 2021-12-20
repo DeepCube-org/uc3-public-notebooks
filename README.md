@@ -21,5 +21,9 @@ This second notebook [2_UC3_DL_models_inference.ipynb](2_UC3_DL_models_inference
 
 The methods to download the models are presented in detail in our relevant paper [available on arXiv](https://arxiv.org/abs/2111.02736), which has been accepted to the workshop on Artificial Intelligence for Humanitarian Assistance and Disaster Response at the 35th Conference on Neural Information Processing Systems (NeurIPS 2021).
 
+## Deep Learning (DL) Models Explainability
+
+This third notebook [3_UC3_DL_models_XAI.ipynb](3_UC3_DL_models_XAI.ipynb) performs the explainable Artificial Intelligence techniques
+
 
 
